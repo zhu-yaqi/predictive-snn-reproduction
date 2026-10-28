@@ -1,0 +1,33 @@
+# Datasets
+data/
+
+# Training outputs and checkpoints
+runs/
+*.pt
+*.pth
+*.ckpt
+
+# Offline Python packages
+wheels/
+*.whl
+*.tar.gz
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+*.egg-info/
+
+# Editors and logs
+.vscode/
+*.log
+
+# Temporary files
+*.tmp
